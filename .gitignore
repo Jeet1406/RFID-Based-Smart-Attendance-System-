@@ -1,0 +1,11 @@
+# Exclude live Excel data files
+*.xlsx
+
+# Exclude Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Exclude local IDE / editor configurations
+.vscode/
+.idea/
+build/
